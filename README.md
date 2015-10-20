@@ -7,8 +7,10 @@ This is where you can view my slides and other resources related to the topics o
 My presentation slide deck can be found [here](https://docs.google.com/a/fastly.com/presentation/d/1UzRh5VIJfk4O0RtI_YLzaTUQhN6s0FVS4873Jc6yxlM/edit?usp=sharing)
 
 ### Reference Material
-[http://www.adrienneporterfelt.com/chi-ssl-experiment.pdf](Experimenting At Scale With Google Chrome’s SSL Warning)
+[Experimenting At Scale With Google Chrome’s SSL Warning](http://www.adrienneporterfelt.com/chi-ssl-experiment.pdf)
+
 [Improving SSL Warnings: Comprehension and Adherence](https://adrifelt.github.io/sslinterstitial-chi.pdf)
+
 [Igoring the Warning Signs - Wired](http://www.slate.com/articles/technology/future_tense/2015/02/ssl_warnings_users_ignore_them_can_we_fix_that.2.html)
 
 ### Images
