@@ -1,10 +1,10 @@
 # AllThingsOpen2015
-I'll be speaking at [All Things Open](http://allthingsopen.org/) on October 20. 
+I had the pleasure of speaking at [All Things Open](http://allthingsopen.org/) on October 20, 2015. 
 
 This is where you can view my slides and other resources related to the topics of Security &amp; Design. 
 
 ### Slides
-My presentation slide deck can be found [here](https://docs.google.com/a/fastly.com/presentation/d/1UzRh5VIJfk4O0RtI_YLzaTUQhN6s0FVS4873Jc6yxlM/edit?usp=sharing)
+My presentation slide deck can be found [here](http://www.slideshare.net/Fastly/secure-by-design-54396907)
 
 ### Reference Material
 [Experimenting At Scale With Google Chrome’s SSL Warning](http://www.adrienneporterfelt.com/chi-ssl-experiment.pdf)
